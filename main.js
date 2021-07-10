@@ -15,6 +15,5 @@ const listRepos = async username => {
 
 }
 
-const username = prompt('Enter your github username')
 
-listRepos(username)
+listRepos('neero0x01')
